@@ -1,0 +1,9 @@
+# vscode
+.vscode/
+creator.d.ts
+
+# cc
+build/
+library/
+local/
+temp/
