@@ -12,7 +12,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "jiantou2",
+    "_name": "jiantou1",
     "_objFlags": 0,
     "_parent": null,
     "_children": [],
@@ -36,8 +36,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 63,
-      "height": 59
+      "width": 54,
+      "height": 57
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -58,17 +58,16 @@
     },
     "_rotationX": 0,
     "_rotationY": 0,
-    "_quat": {
-      "__type__": "cc.Quat",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 1
-    },
     "_skewX": 0,
     "_skewY": 0,
     "groupIndex": 0,
-    "_id": ""
+    "_id": "",
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    }
   },
   {
     "__type__": "cc.Sprite",
@@ -79,7 +78,7 @@
     },
     "_enabled": true,
     "_spriteFrame": {
-      "__uuid__": "814e7e0d-4748-46bd-8626-7061e0f17d7b"
+      "__uuid__": "e7062969-8ded-4db0-9a75-7795a7311b49"
     },
     "_type": 0,
     "_sizeMode": 1,
@@ -106,7 +105,7 @@
     "asset": {
       "__id__": 0
     },
-    "fileId": "09Xsyk0KZNq5KM4YCseuvs",
+    "fileId": "34Sn38LvZMKZcMxpzNFZmc",
     "sync": false
   }
 ]
